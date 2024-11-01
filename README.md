@@ -23,5 +23,8 @@ Flags:
   -h, --help                    help for golanannotate
 exit status 1
 ```
+- it will produce all the genome annotation figures 
+
+![](https://github.com/codecreatede/go-plotter/blob/main/barcds.png)
 
 Gaurav Sablok
