@@ -1,4 +1,4 @@
-# go-goannotate
+# go-plotter 
 
 - annotation and genome annotation visualizer.
 - takes a gff file and visualizes all the regions such as mRNA, cds, protein five prime UTR, and three prime UTR. 
